@@ -1,4 +1,5 @@
 # Parcial-1-Practica-Programacion-II
+Juan Felipe Bustamante Caicedo 
 
 1. El uso de clases "final"
 Si se me ocurriera ponerle final a la clase Libro, básicamente le estaría cerrando la puerta a las demás. El modificador final le dice a Java que esa clase es "hija única" y que nadie puede heredar de ella.
