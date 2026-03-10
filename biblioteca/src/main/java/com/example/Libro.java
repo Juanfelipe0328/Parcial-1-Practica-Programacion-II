@@ -6,7 +6,9 @@ public class Libro {
     private int ejemplares;
     private int prestados;
 
-    public Libro() {}
+    public Libro() {
+        
+    }
 
     public Libro(String titulo, String autor, int ejemplares, int prestados) {
         this.titulo = titulo;
